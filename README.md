@@ -52,7 +52,8 @@ pinned player. Real fullscreen hides them too.
 ## Install
 
 **Tampermonkey / Violentmonkey** — install the extension, then open
-[`windowed-fullscreen.user.js`](windowed-fullscreen.user.js) and confirm.
+**[install the script](https://raw.githubusercontent.com/iva-zhu/windowed-fullscreen/main/windowed-fullscreen.user.js)**
+and confirm.
 
 **Ardia** (built-in userscripts, no extension):
 
