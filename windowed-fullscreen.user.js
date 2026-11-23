@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Video Windowed Fullscreen (macOS)
 // @namespace   https://github.com/iva-zhu/windowed-fullscreen
-// @version     2.0.0
+// @version     2.0.1
 // @description macOS: videos go full screen in the current Space — no native fullscreen, no new Space, no animation
 // @author      Ivan Zhukovin
 // @license     MIT
