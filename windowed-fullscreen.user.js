@@ -3,7 +3,7 @@
 // @namespace   https://github.com/iva-zhu/windowed-fullscreen
 // @version     2.0.0
 // @description macOS: videos go full screen in the current Space — no native fullscreen, no new Space, no animation
-// @author      Ivan Zhukov
+// @author      Ivan Zhukovin
 // @license     MIT
 // @match       *://*/*
 // @run-at      document-start
